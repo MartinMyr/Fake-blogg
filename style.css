@@ -1,0 +1,15 @@
+.row{
+
+}
+.col{
+    
+    display:flex;
+    flex-flow:row wrap;
+}
+
+img{
+    width:300px;
+}
+.card{
+    
+}
